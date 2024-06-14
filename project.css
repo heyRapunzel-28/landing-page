@@ -1,0 +1,114 @@
+*{
+    padding: 5px;
+    margin: 0px;
+}
+.logo{
+   margin-left: 155px;
+    padding-bottom: 40px;
+    height: 90px;
+    width: 1000px;
+    background-image: url("img/Salesforce_Kryterion_Logo_v7.png" );
+    background-repeat: no-repeat;
+    background-size: 100%;   
+}
+.hey{
+    padding-bottom: 30px;
+}
+.hey2{
+    padding-bottom: 62px;
+}
+.hey3{
+    padding-bottom: 80px;
+}
+#selectone{
+    width: 167px;
+}
+.main{
+    margin-left: 170px;
+    margin-left: 170px;
+    width: 700px;
+    margin-top: -50px;
+}
+body{
+    font-weight: bold;
+    background: white;
+    
+}
+.button{
+    width: 300px;
+    margin-left: 500px;
+}
+.hm{
+    color: white;
+    background-color: rgb(91 192 239);
+    width: 105px;
+    height: 35px;
+    border-color: rgb(91 192 239);
+    display: inline-block; 
+   
+}
+.hmm{
+    color: white;
+    background-color: rgb(91 192 239);
+    width: 105px;
+    height: 35px;
+    border-color: rgb(91 192 239);
+    display: inline-block;
+    margin-left: 2px;
+}
+.footer{
+    font-size: 14px;
+    font-weight: 50;
+    text-align: center;
+    width: 880px;
+    margin-left: 170px;
+    margin-top: 40px;
+}
+.acha{
+    font-weight: bold;
+}
+.topbar , li{
+    display: inline-block;
+    font-size: small;
+    text-decoration: none;
+  margin-left: 5px;
+  margin-top: 0px;
+}
+.onee{
+    margin-left: 830px;
+}
+.twoo{
+   width: 250px;
+   margin-left: 925px;
+   
+}
+.dabba{
+    border: 2px solid black;
+    width: 1200px;
+    height: 1600px;
+}
+@media screen and (max-width:1000px){
+    body{
+       background: red;
+
+    }
+}
+
+@media  screen and (max-width:700px){
+    body{
+        background: rgb(199, 205, 152);
+     } 
+     .dabba{
+        width:70%;
+        height: 70%;
+     }
+}
+@media  screen and (max-width:508px){
+    body{
+        background: rgb(217, 230, 80);
+     } 
+     .dabba{
+        width: 50%;
+        height: 50%;
+     }
+}
